@@ -6,6 +6,6 @@ This is my first comment.
 
 More things.
 
-This is a third thing I am doing
+This is worded better as a third thing I am doing
 
 Here are some edits form Github.com
